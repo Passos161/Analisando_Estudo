@@ -4,4 +4,4 @@
 
 # **Estudos e projetos Data Science.**
 ## Segue abaixo link para acesso aos estudos:
-- 
+- CSV_Senadores.ipynb
