@@ -4,4 +4,4 @@
 
 # **Estudos e projetos Data Science.**
 ## Segue abaixo link para acesso aos estudos:
-- CSV_Senadores.ipynb
+- https://github.com/Passos161/Projetos_Estudo_Data.Science/blob/main/Estudo_Data%20Science/CSV_Senadores.ipynb
