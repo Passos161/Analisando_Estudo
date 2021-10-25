@@ -4,6 +4,6 @@
 
 # **Estudos e projetos Data Science.**
 ## Segue abaixo o nome das pastas de estudos:
-- Estudo_Data Science
+- Estudo_Senadores
 - Projeto.Vendas
 
