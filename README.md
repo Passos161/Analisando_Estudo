@@ -1,5 +1,7 @@
 
-![venda-de-produtos-eletronicos-usados-1024x683](https://user-images.githubusercontent.com/90196377/138763219-fe3f9679-f40a-4b68-ad05-b0bbe505ac29.jpg)
+![projetos-de-Data-Science](https://user-images.githubusercontent.com/90196377/138764086-a3169bc6-2243-4872-8cde-c07b6e412a27.jpg)
 
 
-# Estudo sobre vendas de uma empresa que vende prosdutos eletrônicos
+# **Estudos e projetos Data Science.**
+## Segue abaixo link para acesso aos estudos:
+- 
