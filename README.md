@@ -3,6 +3,6 @@
 
 
 # **Estudos e projetos Data Science.**
-## Segue abaixo link para acesso aos estudos:
-- Passos161 Estudo_Senadores
+## Segue abaixo o nome das pastas de estudos:
+- 
 
